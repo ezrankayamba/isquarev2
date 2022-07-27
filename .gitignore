@@ -1,0 +1,7 @@
+.vscode
+.env
+build
+dist
+uploads
+new_docs
+_docs
